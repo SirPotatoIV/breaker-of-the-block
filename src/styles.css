@@ -5,4 +5,6 @@
   border: 2px solid black;
   margin: 20px auto;
   border-radius: 8px;
+  /* Positioning */
+  position: relative;
 }

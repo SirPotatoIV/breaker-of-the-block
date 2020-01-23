@@ -4,4 +4,10 @@
   background-color: salmon;
   border-radius: 8px;
   box-shadow: 2px 2px 2px lightgray;
+
+  /* Positioning */
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
 }
